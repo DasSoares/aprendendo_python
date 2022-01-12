@@ -1,5 +1,9 @@
 import os
 
+# start::variables
+arr = []
+# end::variables
+
 # start::funções
 def printOptions():
     # os.system('cls')
@@ -89,11 +93,6 @@ def home():
 
 
 # end::functions
-
-# start::variables
-arr = []
-
-# end::variables
 
 # start::calls
 home()
