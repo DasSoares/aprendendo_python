@@ -60,7 +60,6 @@ def inserirProduto(nome, valor, qtd):
     )
 
 
-# na opção mostrar todos, está printando um produto de cada vez
 def produtos():
     print('\n1 - Visualizar produto desejado')
     print('2 - Visualizar todos produto')
